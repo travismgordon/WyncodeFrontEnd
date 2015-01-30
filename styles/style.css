@@ -2,6 +2,9 @@ body {
 font-family: sans-seirf;
 }
 
+h1 {
+  font-family: 'Indie Flower', cursive;
+}
 
 footer {
   background-color: #000;
